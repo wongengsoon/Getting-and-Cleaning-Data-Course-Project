@@ -17,6 +17,7 @@ What you need to do:
 ====================
 
 1.Download the data source file into your local drive. You will have a "UCI HAR Dataset" folder.
+
 2.Run "run_analysis.R", it will generate a new file  "tidy_data.txt  in your working directory.
 
 Dependencies:
